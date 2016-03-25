@@ -1,0 +1,1 @@
+http://localhost:1337/news?where={%20%22idnews%22:%20{%20%22%3E%22:%2015000}%20}
