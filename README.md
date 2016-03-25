@@ -1,3 +1,2 @@
-# newsca
-
-a [Sails](http://sailsjs.org) application
+# sails_usingmysql
+Sails MySql Apis 
